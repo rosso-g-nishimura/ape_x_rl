@@ -3,7 +3,9 @@
 - 論文の技法等を極力再現したつもりですが、一部実装・処理が異なる可能性があります。
 
 ## 学習後のサンプル(400,000回Learner更新後)
-- 
+https://user-images.githubusercontent.com/96220400/150657888-1a30b595-24bd-47e0-959a-9a9f43b6fb6d.mp4
+
+
 
 ## 
 - main.py: 
