@@ -5,11 +5,9 @@
 ## 学習後のサンプル(400,000回Learner更新後)
 https://user-images.githubusercontent.com/96220400/150657888-1a30b595-24bd-47e0-959a-9a9f43b6fb6d.mp4
 
-
-
-## 
-- main.py: 
-- demo.py: main.py 実行により学習した.chkptファイルを読み込み、テスト実行＆動画(mp4)生成
+## 実行ファイル
+- main.py: 学習用実行ファイル
+- demo.py: main.py 実行により学習した.chkptファイルを読み込み、テスト実行＆動画(mp4)を生成
 
 ## 元論文
 - https://arxiv.org/abs/1803.00933
